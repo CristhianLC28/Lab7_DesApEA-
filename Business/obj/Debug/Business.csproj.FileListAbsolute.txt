@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\Lab7\Business\bin\Debug\Business.dll
+C:\Users\PC\source\repos\Lab7\Business\bin\Debug\Business.pdb
+C:\Users\PC\source\repos\Lab7\Business\bin\Debug\Data.dll
+C:\Users\PC\source\repos\Lab7\Business\bin\Debug\Entity.dll
+C:\Users\PC\source\repos\Lab7\Business\bin\Debug\Data.pdb
+C:\Users\PC\source\repos\Lab7\Business\bin\Debug\Entity.pdb
+C:\Users\PC\source\repos\Lab7\Business\obj\Debug\Business.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Lab7\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Lab7\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\PC\source\repos\Lab7\Business\obj\Debug\Business.dll
+C:\Users\PC\source\repos\Lab7\Business\obj\Debug\Business.pdb

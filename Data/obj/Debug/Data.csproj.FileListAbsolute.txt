@@ -1,0 +1,9 @@
+C:\Users\PC\source\repos\Lab7\Data\bin\Debug\Data.dll
+C:\Users\PC\source\repos\Lab7\Data\bin\Debug\Data.pdb
+C:\Users\PC\source\repos\Lab7\Data\bin\Debug\Entity.dll
+C:\Users\PC\source\repos\Lab7\Data\bin\Debug\Entity.pdb
+C:\Users\PC\source\repos\Lab7\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Lab7\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Lab7\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\PC\source\repos\Lab7\Data\obj\Debug\Data.dll
+C:\Users\PC\source\repos\Lab7\Data\obj\Debug\Data.pdb
